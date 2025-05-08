@@ -33,6 +33,7 @@ Events I organized or contributed to the organisation
 
 | Title | Link(s) |
 | --- | --- |
+| Flutter Tokyo #7 | [connpass](https://flutter-jp.connpass.com/event/351432/) |
 | Flutter Tokyo #6 | [connpass](https://flutter-jp.connpass.com/event/347785/) |
 | Flutter Tokyo #5 (2) | [connpass](https://flutter-jp.connpass.com/event/346464/) <br> [meetup](https://www.meetup.com/de-DE/flutter-meetup-tokyo/events/306488333/?eventOrigin=group_events_list) |
 | YOUTRUST x ビビッドガーデン x ゆめみ Flutter LT会@渋谷 #7 | [connpass](https://yumemi.connpass.com/event/340473/) |
