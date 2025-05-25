@@ -17,6 +17,7 @@ Articles I have written or contributed to
 
 | Title | Platform(s) | Language |
 | --- | --- | --- |
+| 美味しいチーズ牛丼を通じて、ListView.builderのfindChildIndexCallbackについて学びませんか？ | [はてな](https://tech.youtrust.co.jp/entry/flutter-findchildindexcallback) | Japanese |
 | AndroidでFlutterアプリでイメージ選択に気をつけろ | [はてな](https://tech.youtrust.co.jp/entry/flutter-image-picking-android) | Japanese |
 | テキスト入力のUXを改善しました | [はてな](https://tech.youtrust.co.jp/entry/app-text-ux-improvements) | Japanese |
 | FlutterKaigi 2024に参加してきました！| [はてな](https://tech.youtrust.co.jp/entry/2024/11/27/184941) | Japanese |
