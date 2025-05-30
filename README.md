@@ -41,3 +41,21 @@ Events I organized or contributed to the organisation
 | Flutter Tokyo #5 | [connpass](https://flutter-jp.connpass.com/event/333418/) |
 | Flutter Tokyo Community #0 | [connpass](https://flutter-tokyo-community.connpass.com/event/337029/) |
 | Flutter Tokyo #4 | [connpass](https://flutter-jp.connpass.com/event/332097/) |
+
+# OSS
+
+## My creations
+
+| Project | Link(s) | Status | 
+| --- | --- | --- |
+| Flutter AirPods | [pub.dev](https://pub.dev/packages/flutter_airpods) | Production |
+| Grayscale Filter |  [pub.dev](https://pub.dev/packages/grayscale_filter) | Usabale |
+| Resizer | [pub.dev](https://pub.dev/packages/resizer) | WIP |
+| FlutterShow Project | Me | [pub.dev](https://pub.dev/packages/fluttershow_base) | Abandoned |
+
+## Some Contributions to other projects
+
+| Project | Link(s) | Contribution | 
+| --- | --- | --- |
+| flutter | [Gihub](https://github.com/flutter/flutter) | [feat: Add selectionColor property to selectable text](https://github.com/flutter/flutter/pull/162177) |
+| dart_code_viewer2 | [Gihub](https://github.com/mkobuolys/flutter_deck/tree/main) | [Upgrade deps](https://github.com/verkit/dart_code_viewer2/pull/3) |
