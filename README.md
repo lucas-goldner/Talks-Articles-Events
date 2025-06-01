@@ -4,6 +4,7 @@ All of my talks given at conferences and meetups
 | Event            | Talk Title                | Link to Recording                     | Link to Repo                        | Language                            |
 |------------------|---------------------------|---------------------------------------|-------------------------------------|-------------------------------------|
 | [Flutter開発の舞台裏！3社のエンジニアがおくるLTナイト](https://enechange-meetup.connpass.com/event/347260/) | ListView.builderの謎：効率的リスト構築の秘密を解明　| No Recording | No Repo | Japanese |
+| [突撃！隣のモバイルプラットフォーム！](https://dena.connpass.com/event/339747/) | Part of Team Flutter　| No Recording | No Repo | Japanese |
 | [YOUTRUST x ビビッドガーデン x ゆめみ Flutter LT会@渋谷 #7](https://yumemi.connpass.com/event/340473/) | テキスト入力のUXを改善　| No Recording | No Repo | Japanese |
 | FlutterKaigi 2024 | 僕のstate restorationアカデミア| [Recording](https://www.youtube.com/watch?v=ZEpcXKXSIyI) | [Repo](https://github.com/lucas-goldner/state_restoration_presentation/tree/flutterkaigi2024-presented-version) | Japanese |
 | [22nd Flutter Vienna Meetup at LEAN-CODERS](https://www.meetup.com/de-DE/fluttervienna/events/303135184/?eventOrigin=group_events_list)  | Don’t Leave Your Assets in Their Pajamas—Transform Them!　| No Recording | [Repo](https://github.com/lucas-goldner/assets_transform_presentation) | English |
@@ -17,6 +18,7 @@ Articles I have written or contributed to
 
 | Title | Platform(s) | Language |
 | --- | --- | --- |
+| 拙者、FlutterNinjas2025にて修行して参った！ | [はてな](https://tech.youtrust.co.jp/entry/flutterninjas2025-day-one) | Japanese |
 | 美味しいチーズ牛丼を通じて、ListView.builderのfindChildIndexCallbackについて学びませんか？ | [はてな](https://tech.youtrust.co.jp/entry/flutter-findchildindexcallback) | Japanese |
 | AndroidでFlutterアプリでイメージ選択に気をつけろ | [はてな](https://tech.youtrust.co.jp/entry/flutter-image-picking-android) | Japanese |
 | テキスト入力のUXを改善しました | [はてな](https://tech.youtrust.co.jp/entry/app-text-ux-improvements) | Japanese |
