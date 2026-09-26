@@ -35,6 +35,11 @@ Articles I have written or contributed to
 
 | Title | Platform(s) | Language |
 | --- | --- | --- |
+| Building a City #2: The Storefronts | [はてな](https://tech.youtrust.co.jp/entry/app-architecture-2) | Japanese |
+| Before Technology, There Were People — A Talk at Open Seminar 2026 @ Okayama | [はてな](https://tech.youtrust.co.jp/entry/open-seminar-okayama) | Japanese |
+| My First Presentation at iOSDC Japan 2026: A Flutter Engineer's Perspective on Cross-Platform Development | [はてな](https://tech.youtrust.co.jp/entry/iosdc-2026) | Japanese |
+| Building a City #1: The Master Plan | [はてな](https://tech.youtrust.co.jp/entry/app-architecture-1) | Japanese |
+| He cooked: Crafting a Sexy Drawer Using Only Standard Flutter Features | [はてな](https://tech.youtrust.co.jp/entry/sexy-drawer) | Japanese |
 | Eliminating Manual Authentication Code Entry in iOS 26: Teaching the Keyboard Summoning Magic | [はてな](https://tech.youtrust.co.jp/entry/ios-26-one-time-code-keyboard) | Japanese |
 | Graduating from custom_lint: Completely Porting 13 Unique Flutter Lint Rules to Dart Analyzer Plugin | [はてな](https://tech.youtrust.co.jp/entry/analyzer-plugins) | Japanese |
 | Implementing 1-on-1 Voice Calls in YOUTRUST: An S-Rank Challenge | [はてな](https://tech.youtrust.co.jp/entry/flutter-phone-call) | Japanese |
