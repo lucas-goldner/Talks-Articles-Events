@@ -13,7 +13,7 @@ All of my talks given at conferences and meetups
 | [岡山.Flutter #1](https://okayama-dot-flutter.connpass.com/event/378340/) | [Keynote] Flutter in 2026 | No Recording | No Repo | Japanese |
 | [Flutter Tokyo](https://flutter-jp.connpass.com/event/374220/) | My recent struggles with Flutter | No Recording | No Repo | Japanese |
 | [GDG Tokyo](https://gdg-tokyo.connpass.com/event/369416/) | Flutterで実現する「120％ネイティブ」なLiquid Glassエフェクト | No Recording | No Repo | Japanese |
-| [FlutterKaigi 2025](https://2025.flutterkaigi.jp/) | [Keynote] The Flutter Effect | No Recording | No Repo | Japanese |
+| [FlutterKaigi 2025](https://2025.flutterkaigi.jp/) | [Keynote] The Flutter Effect | [Recording](https://www.youtube.com/watch?v=e3PY6sdSD_Q) | No Repo | Japanese |
 | DevFest 2025 Greater Kwansai | Flutterの“秘密の超能力”がヤバい！【誰も気づいていない】 | [Recording](https://www.youtube.com/watch?v=uzsZnsmbOmU&t=5948s) | No Repo | Japanese |
 | [Fluttercon EU 2025](https://www.fluttercon.dev/speakers/lucas-goldner) | No More Anxiety: iOS Extensions in Flutter | [Recording](https://www.youtube.com/watch?v=b8lfmkBB0vg) | No Repo | English |
 | [YOUTRUST Knowledge Night vol.2 Flutter](https://youtrust.jp/lp/knowledgenight-vol2-flutter-online) | Flutter Sceneで3D表現に挑戦！試行錯誤から学んだこと | No Recording | No Repo | Japanese |
