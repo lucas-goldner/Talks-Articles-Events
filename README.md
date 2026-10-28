@@ -4,7 +4,7 @@ All of my talks given at conferences and meetups
 | Event            | Talk Title                | Link to Recording                     | Link to Repo                        | Language                            |
 |------------------|---------------------------|---------------------------------------|-------------------------------------|-------------------------------------|
 | [岡山Open Seminar 2026](https://okayama.open-seminar.org/detail/?speaker=lucas) | Technology Didn’t Change My Life. People Did. — How Flutter Opened Up My World | No Recording | No Repo | Japanese |
-| [iOSDC Japan 2026](https://fortee.jp/iosdc-japan-2026/proposal/db0b002a-ed2b-47e8-b798-3b8f8bcc4007) | Calls don't end when they connect - The back end of call functionality with CallKit | No Recording | No Repo | Japanese |
+| [iOSDC Japan 2026](https://fortee.jp/iosdc-japan-2026/proposal/db0b002a-ed2b-47e8-b798-3b8f8bcc4007) | Calls don't end when they connect - The back end of call functionality with CallKit | [Recording](https://www.youtube.com/watch?v=80gZUU83COk) | No Repo | Japanese |
 | [Google I/O Extended Kwansai 2026](https://gdgkwansai.connpass.com/event/391029/) | Beyond the Keynote — Google I/O 2026: Hands-on with the Latest Flutter Information | No Recording | No Repo | Japanese |
 | [Google I/O Extended Tokyo 2026](https://gdg-tokyo.connpass.com/event/394136/) | Beyond the Keynote: Experiencing the Latest Flutter Information from Google I/O 2026 | No Recording | No Repo | Japanese |
 | [React Native Meetup](https://react-native-meetup.connpass.com/event/390014/) | JSからDartへ：React Native開発者のFlutter初体験 | No Recording | No Repo | Japanese |
